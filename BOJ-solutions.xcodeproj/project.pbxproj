@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FADA79B323DF29520039F0F1 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FADA79B223DF29520039F0F1 /* main.cpp */; };
+		FADA79B323DF29520039F0F1 /* BOJ_10869_사칙연산.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FADA79B223DF29520039F0F1 /* BOJ_10869_사칙연산.cpp */; };
+		FADA79BB23DF2C6A0039F0F1 /* BOJ_10430_나머지.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FADA79B923DF2C6A0039F0F1 /* BOJ_10430_나머지.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +25,8 @@
 
 /* Begin PBXFileReference section */
 		FADA79AF23DF29520039F0F1 /* BOJ-solutions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "BOJ-solutions"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FADA79B223DF29520039F0F1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		FADA79B223DF29520039F0F1 /* BOJ_10869_사칙연산.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_10869_사칙연산.cpp"; sourceTree = "<group>"; };
+		FADA79B923DF2C6A0039F0F1 /* BOJ_10430_나머지.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_10430_나머지.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +59,8 @@
 		FADA79B123DF29520039F0F1 /* BOJ-solutions */ = {
 			isa = PBXGroup;
 			children = (
-				FADA79B223DF29520039F0F1 /* main.cpp */,
+				FADA79B223DF29520039F0F1 /* BOJ_10869_사칙연산.cpp */,
+				FADA79B923DF2C6A0039F0F1 /* BOJ_10430_나머지.cpp */,
 			);
 			path = "BOJ-solutions";
 			sourceTree = "<group>";
@@ -119,7 +122,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FADA79B323DF29520039F0F1 /* main.cpp in Sources */,
+				FADA79B323DF29520039F0F1 /* BOJ_10869_사칙연산.cpp in Sources */,
+				FADA79BB23DF2C6A0039F0F1 /* BOJ_10430_나머지.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
