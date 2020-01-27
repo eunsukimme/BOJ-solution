@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA4DB46B23DF3440002F7F9D /* BOJ_2588_곱셈.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FA4DB46923DF3440002F7F9D /* BOJ_2588_곱셈.cpp */; };
 		FADA79B323DF29520039F0F1 /* BOJ_10869_사칙연산.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FADA79B223DF29520039F0F1 /* BOJ_10869_사칙연산.cpp */; };
 		FADA79BB23DF2C6A0039F0F1 /* BOJ_10430_나머지.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FADA79B923DF2C6A0039F0F1 /* BOJ_10430_나머지.cpp */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		FA4DB46923DF3440002F7F9D /* BOJ_2588_곱셈.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_2588_곱셈.cpp"; sourceTree = "<group>"; };
 		FADA79AF23DF29520039F0F1 /* BOJ-solutions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "BOJ-solutions"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FADA79B223DF29520039F0F1 /* BOJ_10869_사칙연산.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_10869_사칙연산.cpp"; sourceTree = "<group>"; };
 		FADA79B923DF2C6A0039F0F1 /* BOJ_10430_나머지.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_10430_나머지.cpp"; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 			children = (
 				FADA79B223DF29520039F0F1 /* BOJ_10869_사칙연산.cpp */,
 				FADA79B923DF2C6A0039F0F1 /* BOJ_10430_나머지.cpp */,
+				FA4DB46923DF3440002F7F9D /* BOJ_2588_곱셈.cpp */,
 			);
 			path = "BOJ-solutions";
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FADA79B323DF29520039F0F1 /* BOJ_10869_사칙연산.cpp in Sources */,
+				FA4DB46B23DF3440002F7F9D /* BOJ_2588_곱셈.cpp in Sources */,
 				FADA79BB23DF2C6A0039F0F1 /* BOJ_10430_나머지.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

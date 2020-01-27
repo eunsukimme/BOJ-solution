@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main(){
+int boj_10430(){
     int A, B, C;
     cin >> A >> B >> C;
     cout << (A+B)%C << endl;

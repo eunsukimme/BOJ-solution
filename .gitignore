@@ -299,3 +299,4 @@ DerivedData/
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.gitignore.io/api/c++,java,xcode,clion,python,visualstudiocode
+BOJ-solutions.xcodeproj/project.pbxproj
