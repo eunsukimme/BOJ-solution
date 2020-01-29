@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>
 using namespace std;
-int main(){
+int boj_2588(){
     int A, B, sum = 0;
     cin >> A;
     cin >> B;
