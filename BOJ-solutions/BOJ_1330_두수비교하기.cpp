@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main(){
+int boj_1330(){
     int A, B;
     cin >> A >> B;
     cout << ( A > B ? ">" : ( A < B  ? "<" : "==" )) << endl;
