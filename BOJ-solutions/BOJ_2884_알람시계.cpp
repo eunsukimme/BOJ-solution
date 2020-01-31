@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main(){
+int boj_2884(){
     int H, M;
     cin >> H >> M;
     if(M >= 45){
