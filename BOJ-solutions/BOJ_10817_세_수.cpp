@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main(){
+int boj_10817(){
     int A, B, C;
     cin >> A >> B >> C;
     if(A >= B && A >= C){
