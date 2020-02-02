@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main(){
+int boj_2739(){
     int N;
     cin >> N;
     for(int i = 1 ;i < 10 ; i++){
