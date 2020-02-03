@@ -12,6 +12,7 @@
 		FA3831D423E6F58B004DD2D0 /* BOJ_10950_A+B_3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FA3831D323E6F58B004DD2D0 /* BOJ_10950_A+B_3.cpp */; };
 		FA3831D623E6F641004DD2D0 /* BOJ_8393_합.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FA3831D523E6F641004DD2D0 /* BOJ_8393_합.cpp */; };
 		FA3831D823E6F9B0004DD2D0 /* BOJ_2741_N찍기.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FA3831D723E6F9B0004DD2D0 /* BOJ_2741_N찍기.cpp */; };
+		FA3831DA23E857AC004DD2D0 /* BOJ_2742_기찍N.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FA3831D923E857AC004DD2D0 /* BOJ_2742_기찍N.cpp */; };
 		FA4DB46B23DF3440002F7F9D /* BOJ_2588_곱셈.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FA4DB46923DF3440002F7F9D /* BOJ_2588_곱셈.cpp */; };
 		FAAFC8B023E16AEE00A268ED /* BOJ_1330_두수비교하기.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FAAFC8AE23E16AEE00A268ED /* BOJ_1330_두수비교하기.cpp */; };
 		FAAFC8B223E1740A00A268ED /* BOJ_2753_윤년.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FAAFC8B123E1740A00A268ED /* BOJ_2753_윤년.cpp */; };
@@ -39,6 +40,7 @@
 		FA3831D323E6F58B004DD2D0 /* BOJ_10950_A+B_3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_10950_A+B_3.cpp"; sourceTree = "<group>"; };
 		FA3831D523E6F641004DD2D0 /* BOJ_8393_합.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_8393_합.cpp"; sourceTree = "<group>"; };
 		FA3831D723E6F9B0004DD2D0 /* BOJ_2741_N찍기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_2741_N찍기.cpp"; sourceTree = "<group>"; };
+		FA3831D923E857AC004DD2D0 /* BOJ_2742_기찍N.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_2742_기찍N.cpp"; sourceTree = "<group>"; };
 		FA4DB46923DF3440002F7F9D /* BOJ_2588_곱셈.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_2588_곱셈.cpp"; sourceTree = "<group>"; };
 		FAAFC8AE23E16AEE00A268ED /* BOJ_1330_두수비교하기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_1330_두수비교하기.cpp"; sourceTree = "<group>"; };
 		FAAFC8B123E1740A00A268ED /* BOJ_2753_윤년.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_2753_윤년.cpp"; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				FA3831D323E6F58B004DD2D0 /* BOJ_10950_A+B_3.cpp */,
 				FA3831D523E6F641004DD2D0 /* BOJ_8393_합.cpp */,
 				FA3831D723E6F9B0004DD2D0 /* BOJ_2741_N찍기.cpp */,
+				FA3831D923E857AC004DD2D0 /* BOJ_2742_기찍N.cpp */,
 			);
 			path = "BOJ-solutions";
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				FA4DB46B23DF3440002F7F9D /* BOJ_2588_곱셈.cpp in Sources */,
 				FA3831D423E6F58B004DD2D0 /* BOJ_10950_A+B_3.cpp in Sources */,
 				FAAFC8B623E188BD00A268ED /* BOJ_2884_알람시계.cpp in Sources */,
+				FA3831DA23E857AC004DD2D0 /* BOJ_2742_기찍N.cpp in Sources */,
 				FA3831D823E6F9B0004DD2D0 /* BOJ_2741_N찍기.cpp in Sources */,
 				FA3831D023E43BBC004DD2D0 /* BOJ_10817_세_수.cpp in Sources */,
 				FAAFC8B223E1740A00A268ED /* BOJ_2753_윤년.cpp in Sources */,
