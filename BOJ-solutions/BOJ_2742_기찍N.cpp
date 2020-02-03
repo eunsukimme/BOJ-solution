@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(){
+int boj_2742(){
     int N;
     scanf("%d", &N);
     for(int i = N ;i > 0 ; i--){
