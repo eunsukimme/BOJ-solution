@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main(){
+int boj_11021(){
     int T;
     cin >> T;
     for(int i = 1 ;i <= T ; i++){
