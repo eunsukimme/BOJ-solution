@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(){
+int boj_11022(){
     int T;
     scanf("%d", &T);
     for(int i = 1 ;i  <= T ;i++){
