@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-int main(){
+int boj_10871(){
     int N, X;
     cin >> N >> X;
     vector<int> v;

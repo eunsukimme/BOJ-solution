@@ -24,6 +24,7 @@
 		FAAFC8B623E188BD00A268ED /* BOJ_2884_알람시계.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FAAFC8B523E188BD00A268ED /* BOJ_2884_알람시계.cpp */; };
 		FADA79B323DF29520039F0F1 /* BOJ_10869_사칙연산.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FADA79B223DF29520039F0F1 /* BOJ_10869_사칙연산.cpp */; };
 		FADA79BB23DF2C6A0039F0F1 /* BOJ_10430_나머지.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FADA79B923DF2C6A0039F0F1 /* BOJ_10430_나머지.cpp */; };
+		FAF600D424ED7BAC00CAA405 /* BOJ_14681_사분면_고르기.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FAF600D324ED7BAC00CAA405 /* BOJ_14681_사분면_고르기.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -57,6 +58,7 @@
 		FADA79AF23DF29520039F0F1 /* BOJ-solutions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "BOJ-solutions"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FADA79B223DF29520039F0F1 /* BOJ_10869_사칙연산.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_10869_사칙연산.cpp"; sourceTree = "<group>"; };
 		FADA79B923DF2C6A0039F0F1 /* BOJ_10430_나머지.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_10430_나머지.cpp"; sourceTree = "<group>"; };
+		FAF600D324ED7BAC00CAA405 /* BOJ_14681_사분면_고르기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_14681_사분면_고르기.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				FA3831DD23EB0B8B004DD2D0 /* BOJ_11022_A+B_8.cpp */,
 				FA3831DF23EC0A52004DD2D0 /* BOJ_2439_별찍기_2.cpp */,
 				FA3831E123EC0BDE004DD2D0 /* BOJ_10871_X보다_작은_수.cpp */,
+				FAF600D324ED7BAC00CAA405 /* BOJ_14681_사분면_고르기.cpp */,
 			);
 			path = "BOJ-solutions";
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 				FA3831DE23EB0B8B004DD2D0 /* BOJ_11022_A+B_8.cpp in Sources */,
 				FA4DB46B23DF3440002F7F9D /* BOJ_2588_곱셈.cpp in Sources */,
 				FA3831D423E6F58B004DD2D0 /* BOJ_10950_A+B_3.cpp in Sources */,
+				FAF600D424ED7BAC00CAA405 /* BOJ_14681_사분면_고르기.cpp in Sources */,
 				FAAFC8B623E188BD00A268ED /* BOJ_2884_알람시계.cpp in Sources */,
 				FA3831DA23E857AC004DD2D0 /* BOJ_2742_기찍N.cpp in Sources */,
 				FA3831D823E6F9B0004DD2D0 /* BOJ_2741_N찍기.cpp in Sources */,
