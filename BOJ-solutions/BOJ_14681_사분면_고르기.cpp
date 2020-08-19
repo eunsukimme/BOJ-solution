@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main(){
+int boj_14681(){
     
     int x, y;
     cin >> x >> y;
