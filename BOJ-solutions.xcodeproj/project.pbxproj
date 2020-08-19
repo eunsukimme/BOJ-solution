@@ -26,6 +26,7 @@
 		FADA79BB23DF2C6A0039F0F1 /* BOJ_10430_나머지.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FADA79B923DF2C6A0039F0F1 /* BOJ_10430_나머지.cpp */; };
 		FAF600D424ED7BAC00CAA405 /* BOJ_14681_사분면_고르기.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FAF600D324ED7BAC00CAA405 /* BOJ_14681_사분면_고르기.cpp */; };
 		FAF600D624ED7D6500CAA405 /* BOJ_10952_A+B-5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FAF600D524ED7D6500CAA405 /* BOJ_10952_A+B-5.cpp */; };
+		FAF600D924ED7E4C00CAA405 /* BOJ_10951_A+B-4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FAF600D724ED7E4C00CAA405 /* BOJ_10951_A+B-4.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -61,6 +62,7 @@
 		FADA79B923DF2C6A0039F0F1 /* BOJ_10430_나머지.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_10430_나머지.cpp"; sourceTree = "<group>"; };
 		FAF600D324ED7BAC00CAA405 /* BOJ_14681_사분면_고르기.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_14681_사분면_고르기.cpp"; sourceTree = "<group>"; };
 		FAF600D524ED7D6500CAA405 /* BOJ_10952_A+B-5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_10952_A+B-5.cpp"; sourceTree = "<group>"; };
+		FAF600D724ED7E4C00CAA405 /* BOJ_10951_A+B-4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "BOJ_10951_A+B-4.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				FA3831E123EC0BDE004DD2D0 /* BOJ_10871_X보다_작은_수.cpp */,
 				FAF600D324ED7BAC00CAA405 /* BOJ_14681_사분면_고르기.cpp */,
 				FAF600D524ED7D6500CAA405 /* BOJ_10952_A+B-5.cpp */,
+				FAF600D724ED7E4C00CAA405 /* BOJ_10951_A+B-4.cpp */,
 			);
 			path = "BOJ-solutions";
 			sourceTree = "<group>";
@@ -177,6 +180,7 @@
 				FA3831DC23E8584E004DD2D0 /* BOJ_11021_A+B_7.cpp in Sources */,
 				FADA79B323DF29520039F0F1 /* BOJ_10869_사칙연산.cpp in Sources */,
 				FA3831DE23EB0B8B004DD2D0 /* BOJ_11022_A+B_8.cpp in Sources */,
+				FAF600D924ED7E4C00CAA405 /* BOJ_10951_A+B-4.cpp in Sources */,
 				FA4DB46B23DF3440002F7F9D /* BOJ_2588_곱셈.cpp in Sources */,
 				FA3831D423E6F58B004DD2D0 /* BOJ_10950_A+B_3.cpp in Sources */,
 				FAF600D424ED7BAC00CAA405 /* BOJ_14681_사분면_고르기.cpp in Sources */,

@@ -2,13 +2,10 @@
 
 using namespace std;
 
-int boj_10952(){
+int main(){
     int A, B;
-    
-    cin >> A >> B;
-    while(A != 0 && B != 0){
+    while(scanf("%d %d", &A, &B) != EOF){
         cout << A + B << endl;
-        cin >> A >> B;
     }
     return 0;
 }
